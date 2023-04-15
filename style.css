@@ -1,11 +1,11 @@
 @font-face {
     font-family: bgg;
-    src: url(../Portfolio/fonts/basementGrotesque.otf);
+    src: url(Portfolio/fonts/basementGrotesque.otf);
 
 }
 @font-face {
     font-family: ar;
-    src: url(../Portfolio/fonts/Aileron-Regular.otf);
+    src: url(Portfolio/fonts/Aileron-Regular.otf);
 }
 html{
     scroll-behavior: smooth;
@@ -34,7 +34,7 @@ nav{
 .home{
     height: 100vh;
     width: 100vw;
-    background-image: url(../Portfolio/images/Untitled\ design\ \(2\).png);
+    background-image: url(Portfolio/images/Untitled\ design\ \(2\).png);
     background-size: cover;
     background-position: center;
 }
@@ -92,7 +92,7 @@ h4{
 }
 
 .about{
-    background-image: url(../Portfolio/images/Untitled\ design\ \(4\).png);
+    background-image: url(Portfolio/images/Untitled\ design\ \(4\).png);
     height: 100vh;
     width: 100%;
     background-size: cover;
